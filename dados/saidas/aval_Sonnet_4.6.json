@@ -1,0 +1,36 @@
+{
+  "identificados": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "P1",
+    "P2",
+    "P3",
+    "P4",
+    "P5",
+    "P6",
+    "P7",
+    "P8",
+    "P9",
+    "P10",
+    "P11",
+    "P12",
+    "P13",
+    "P14",
+    "E1",
+    "E2",
+    "E3",
+    "E4",
+    "E5",
+    "R1",
+    "R3",
+    "R10"
+  ],
+  "espurios_qtd": 3,
+  "espurios_desc": [
+    "A00/A01 – Verificação prévia da classificação da usina (Tipo I, II-A, II-B, II-C, III) e do ponto de conexão como subprocesso 0 explícito; não consta como atividade distinta na referência do Submódulo 7.13",
+    "G12/FE07 – Aguardo de conclusão de instalações vinculadas ao mesmo estudo pré-operacional (Submódulo 7.4) como gateway e fluxo de exceção explícito; não listado como elemento do processo na referência",
+    "A44/G14 – Tratamento especial para usinas Tipo II-C com múltiplos circuitos concomitantes como atividade e gateway paralelo; não consta na lista de referência do Submódulo 7.13"
+  ]
+}

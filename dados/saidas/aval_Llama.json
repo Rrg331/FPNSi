@@ -1,0 +1,23 @@
+{
+  "identificados": [
+    "A1",
+    "A2",
+    "A3",
+    "P1",
+    "P2",
+    "P3",
+    "P4",
+    "P5",
+    "P6",
+    "P9",
+    "P13",
+    "P14",
+    "E1",
+    "E2"
+  ],
+  "espurios_qtd": 2,
+  "espurios_desc": [
+    "Existência de pendências impeditivas para emissão de DIR (gateway) — a DIR não possui fluxo de exceção por pendência impeditiva na referência; o gateway foi inventado para a DIR sem respaldo no escopo do Submódulo 7.13",
+    "Análise da solicitação de DAPR/P tratada de forma genérica (pendências impeditivas), sem distinguir o fluxo específico de pendências não impeditivas que geram DAPR/P com prazo, colapsando indevidamente P10/P11 com P13/P14 e omitindo a lógica de DAPR/D direta (P12)"
+  ]
+}

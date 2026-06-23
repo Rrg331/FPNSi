@@ -1,0 +1,4 @@
+Modelo,identificados,omitidos,espurios,TCR,TRO,TEE,Precisao,Revocacao,F1
+Sonnet 4.6,26.0,10.0,3.0,0.722,0.278,0.103,0.897,0.722,0.8
+Haiku 4.5,23.0,13.0,3.0,0.639,0.361,0.115,0.885,0.639,0.742
+Llama,14.0,22.0,2.0,0.389,0.611,0.125,0.875,0.389,0.538

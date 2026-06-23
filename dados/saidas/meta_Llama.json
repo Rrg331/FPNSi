@@ -1,0 +1,7 @@
+{
+  "modelo": "Llama",
+  "model_id": "llama-3.3-70b-versatile",
+  "stop_reason": "stop",
+  "chars": 2631,
+  "max_tokens": 3500
+}

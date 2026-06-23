@@ -1,0 +1,33 @@
+{
+  "identificados": [
+    "A1",
+    "A2",
+    "A3",
+    "P1",
+    "P2",
+    "P3",
+    "P4",
+    "P5",
+    "P6",
+    "P7",
+    "P9",
+    "P10",
+    "P11",
+    "P12",
+    "P13",
+    "P14",
+    "E1",
+    "E2",
+    "E3",
+    "E4",
+    "E5",
+    "R1",
+    "R3"
+  ],
+  "espurios_qtd": 3,
+  "espurios_desc": [
+    "Sistema Computacional do ONS (SGI) como ator/raia separada — não consta como ator distinto na referência do Submódulo 7.13",
+    "Fluxo de Exceção 8 (Reuniões Operacionais) — convocação de reuniões entre agentes de operação como etapa formal de exceção não prevista na referência",
+    "Fluxo de Exceção 9 / Desvio D8 (Múltiplos Circuitos para usinas Tipo II-C com DAPR/P concomitante) — detalhamento de circuitos múltiplos como fluxo de exceção explícito não consta na lista de referência"
+  ]
+}

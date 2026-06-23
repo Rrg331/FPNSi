@@ -1,0 +1,425 @@
+
+
+Submódulo 7.13
+Emissão de declaração de atendimento
+aos Procedimentos de Rede para
+instalações de geração
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2026.04 Despacho STD nº 1.238/2026 09/04/2026
+
+Procedimentos de Rede para instalações de 7.13 Procedimental 2026.04 01/05/2026
+geração
+ÍNDICE
+1. DIRETRIZES GERAIS.............................................................................................................3
+2. EMISSÃO DE DECLARAÇÃO DE INEXISTÊNCIA DE RELACIONAMENTO OPERACIONAL DOS
+EMPREENDIMENTOS DE GERAÇÃO COM O ONS..................................................................3
+3. EMISSÃO DE DECLARAÇÃO DE ATENDIMENTO AOS PROCEDIMENTOS DE REDE PARA A
+INTEGRAÇÃO DE EMPREENDIMENTOS DE GERAÇÃO...........................................................3
+3.1. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para Início da
+Operação em Teste (DAPR/T)...........................................................................................3
+3.2. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para Início da
+Operação Provisória (DAPR/P)..........................................................................................4
+3.3. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para Início da
+Operação Definitiva (DAPR/D)..........................................................................................5
+4. REFERÊNCIAS......................................................................................................................5
+5. ANEXOS..............................................................................................................................5
+ANEXO A - Informe e Dados Técnicos para Integração de Instalação de Agente De Geração...7
+ANEXO B - Requisitos Impeditivos para Emissão de DAPR para Agente De Geração..............11
+
+Procedimentos de Rede para instalações de 7.13 Procedimental 2026.04 01/05/2026
+geração
+1. DIRETRIZES GERAIS
+1.1. São tratados como novos processos de integração ao Sistema Interligado Nacional (SIN) as alterações
+de características técnicas de empreendimentos de geração, as mudanças de ponto de conexão e a alteração
+na classificação da modalidade de operação de usinas, conforme estabelecido no Submódulo 7.2 –
+Classificação de modalidade de operação de usinas, que implique em acréscimo de requisitos dos
+Procedimentos de Rede.
+1.2. Durante o processo para integração de instalação de geração, caso seja considerado necessário, podem
+ser realizadas reuniões entre os agentes de operação envolvidos e o Operador Nacional do Sistema Elétrico
+– ONS.
+2. EMISSÃO DE DECLARAÇÃO DE INEXISTÊNCIA DE RELACIONAMENTO OPERACIONAL DOS
+EMPREENDIMENTOS DE GERAÇÃO COM O ONS
+2.1. O agente de geração responsável por usina classificada na modalidade de operação Tipo III, conforme
+estabelecido no Submódulo 7.2, conectada na Rede de Distribuição ou produtor independente e
+autoprodutor que opere, por tempo determinado, sem injeção de potência no SIN, encaminha ao ONS, nos
+formatos, meios e prazos especificados, a solicitação de emissão de Declaração de Inexistência de
+Relacionamento Operacional com o ONS (DIR), contendo a declaração apresentada no ANEXO A - Informe e
+Dados Técnicos para Integração de Instalação de Agente De Geração deste submódulo.
+2.2. O ONS analisa a solicitação do agente de geração e, havendo conformidade com o Ato Autorizativo,
+elabora a DIR e a encaminha ao agente de geração envolvido.
+2.3. Caso seja identificado que alguma das condições não é válida, o ONS não emite a DIR e informa ao
+agente envolvido a inviabilidade de expedição da DIR, bem como os impedimentos que levaram a tal
+situação.
+3. EMISSÃO DE DECLARAÇÃO DE ATENDIMENTO AOS PROCEDIMENTOS DE REDE PARA A
+INTEGRAÇÃO DE EMPREENDIMENTOS DE GERAÇÃO
+3.1. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para Início da
+Operação em Teste (DAPR/T)
+3.1.1. O agente de geração responsável por usina classificada na modalidade de operação Tipo I, Tipo II ou
+Tipo III quando conectada nas Demais Instalações de Transmissão (DIT), conforme estabelecido no
+Submódulo 7.2, encaminha ao ONS, nos formatos, meios e prazos estabelecidos, a solicitação de emissão de
+DAPR/T, contendo a declaração apresentada no ANEXO A - Informe e Dados Técnicos para Integração de
+Instalação de Agente De Geração.
+
+Procedimentos de Rede para instalações de 7.13 Procedimental 2026.04 01/05/2026
+geração
+3.1.2. O ONS analisa a solicitação do agente de geração, com base na avaliação de atendimento aos
+requisitos impeditivos listados no ANEXO B deste submódulo, elabora a DAPR/T e a encaminha ao agente
+envolvido.
+3.1.3. Caso existam pendências impeditivas, o ONS não emite a DAPR/T e informa ao agente a inviabilidade
+de emissão da declaração, bem como os impedimentos que levaram a tal situação.
+3.1.3.1. Nesse caso, o ONS suspende o processo de emissão da DAPR/T e o reinicia apenas quando ocorrer
+a confirmação pelo agente da solução das pendências impeditivas e a nova solicitação de DAPR/T via sistema
+computacional do ONS.
+3.2. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para Início da
+Operação Provisória (DAPR/P)
+3.2.1. O agente de geração responsável por usina em operação em teste encaminha ao ONS, após a
+finalização da fase de testes, nos formatos, meios e prazos especificados, a solicitação de emissão de DAPR/P,
+contendo a declaração apresentada no ANEXO A - Informe e Dados Técnicos para Integração de Instalação
+de Agente De Geração deste submódulo.
+3.2.2. O ONS analisa a solicitação do agente de geração, com base na avaliação de atendimento aos
+requisitos impeditivos listados no ANEXO B deste submódulo, elabora a DAPR/P e a encaminha ao agente
+envolvido.
+3.2.3. Na DAPR/P são explícitos a data a partir da qual a unidade geradora atendeu aos requisitos dos
+Procedimentos de Rede para iniciar a operação integrada ao SIN em caráter provisório, os requisitos não
+atendidos que não sejam impeditivos para a entrada em operação integrada da usina, as adequações
+necessárias e os prazos acordados para a solução dos mesmos, bem como eventuais restrições de
+escoamento da geração.
+3.2.3.1. Até o vencimento do prazo da pendência constante na DAPR/P, o agente de geração formaliza junto
+ao ONS o atendimento à pendência, ou caso as ações não tenham sido concluídas, solicita um novo prazo. A
+solicitação de uma extensão dos prazos acordados com o ONS para a solução das pendências não impeditivas
+deve ser feita mediante apresentação das justificativas para o não atendimento às adequações e/ou prazos
+acordados.
+3.2.3.2. O ONS analisa a justificativa apresentada pelo agente de geração, podendo ou não revalidar o prazo
+para atendimento ao requisito e informa a ANEEL, se necessário. O agente de geração pode solicitar a
+revalidação do prazo para atendimento ao requisito até duas vezes.
+3.2.4. Caso existam pendências impeditivas, o ONS não emite a DAPR/P e informa ao agente a inviabilidade
+de emissão da declaração, bem como os impedimentos que levaram a tal situação.
+3.2.4.1. Nesse caso, o ONS suspende o processo de emissão da DAPR/P e o reinicia apenas quando ocorrer
+a confirmação pelo agente da solução das pendências impeditivas e a nova solicitação de DAPR/P via sistema
+computacional do ONS.
+
+Procedimentos de Rede para instalações de 7.13 Procedimental 2026.04 01/05/2026
+geração
+3.2.5. Caso o ONS verifique que não existem pendências para a operação integrada da central geradora, o
+ONS emite diretamente a DAPR/D.
+3.2.6. Para obtenção da DAPR/P para usinas Tipo II-C, este poderá ser solicitado para mais de um circuito de
+forma concomitante.
+3.3. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para Início da
+Operação Definitiva (DAPR/D)
+3.3.1. O agente de geração responsável por usina em operação em teste ou integrada em caráter provisório
+com pendências não impeditivas, encaminha ao ONS, nos formatos, meios e prazos especificados, a
+solicitação de emissão de DAPR/D, contendo a declaração apresentada no ANEXO A - Informe e Dados
+Técnicos para Integração de Instalação de Agente De Geração deste submódulo.
+3.3.2. O ONS analisa a solicitação do agente de geração, com base na avaliação de atendimento aos
+requisitos impeditivos listados no ANEXO B deste submódulo e, caso existam pendências, o ONS não emite a
+DAPR/D e informa ao agente a inviabilidade de emissão da declaração, bem como os impedimentos que
+levaram a tal situação.
+3.3.2.1. Nesse caso, o ONS suspende o processo de emissão da DAPR/D e o reinicia apenas quando ocorrer
+a confirmação pelo agente da solução das pendências impeditivas e a nova solicitação de DAPR/D via sistema
+computacional do ONS.
+3.3.3. No caso de o ONS considerar o empreendimento em condições de operar de forma integrada ao SIN,
+sem nenhuma pendência, o ONS emite a DAPR/D e a encaminha ao agente de geração envolvido.
+3.3.3.1. Na DAPR/D é explícita a data a partir da qual a unidade geradora atendeu aos requisitos dos
+Procedimentos de Rede para iniciar a operação integrada ao SIN, bem como eventuais restrições de
+escoamento.
+3.3.3.2. A emissão dos DAPR/D é vinculada à conclusão e integração sem pendências de todas as instalações
+de geração abrangidas por um mesmo estudo pré-operacional, conforme o Submódulo 7.4 - “Estudos pré-
+operacionais de integração de instalações da Rede de Operação”, quando um requisito pode ser avaliado
+somente após a integração de todas essas instalações.
+4. REFERÊNCIAS
+4.1. Não há referências neste documento.
+5. ANEXOS
+ANEXO A - Informe e Dados Técnicos para Integração de Instalação de Agente De Geração
+
+Procedimentos de Rede para instalações de 7.13 Procedimental 2026.04 01/05/2026
+geração
+ANEXO B - Requisitos Impeditivos para Emissão de DAPR para Agente De Geração
+
+Procedimentos de Rede para instalações de 7.13 Procedimental 2026.04 01/05/2026
+geração
+ANEXO A - Informe e Dados Técnicos para Integração de Instalação de Agente De Geração
+INÍCIO DE OPERAÇÃO EM TESTE
+INÍCIO DE OPERAÇÃO INTEGRADA AO SIN
+INEXISTÊNCIA DE RELACIONAMENTO
+AGENTE Nome do Proprietário ou do Cessionário do Empreendimento de Geração
+CÓDIGO ÚNICO DE
+EMPREENDIMENTO DE Código do empreendimento de geração estabelecido pela ANEEL
+GERAÇÃO (CEG)
+Cadastro Nacional de Pessoa Jurídica do Proprietário ou do Cessionário
+CNPJ
+do Empreendimento de Geração
+REPRESENTANTE PARA Nome, telefone e e-mail de pessoa física que prestará esclarecimentos
+CONTATO sobre a instalação
+DIRETOR / PRESIDENTE DO
+Nome, telefone e e-mail do Diretor / Presidente do agente de geração
+AGENTE
+ENDEREÇO Endereço para correspondências
+NOME DA USINA Nome da usina, conforme Ato Autorizativo
+Deve ser informado se a tecnologia é hidráulica, térmica, eólica e/ou
+solar e se Autoprodutor, Produtor Independente ou Cogeração. Se for
+térmica deve ser informado o processo de geração (Turbina à gás,
+FONTES PRIMÁRIAS Turbina à vapor, motor de combustão interna, operação em ciclo
+combinado ou simples) e o tipo de combustível. Se a usina for do tipo
+híbrida ou fizer parte de associação de usinas devem ser informadas as
+tecnologias de geração de energia elétrica que a compõem.
+
+Procedimentos de Rede para instalações de 7.13 Procedimental 2026.04 01/05/2026
+geração
+IDENTIFICAÇÃO DA(S)
+Unidade(s) geradora(s) objeto da solicitação
+UNIDADE(S) GERADORA(S)
+POTÊNCIA AUTORIZADA PARA
+Potência que consta no Ato Autorizativo
+A USINA (MW)
+Potência bruta das unidades geradoras que já se encontram em operação
+POTÊNCIA ATUALMENTE comercial. Se a usina for do tipo híbrida ou fizer parte de associação de
+INSTALADA NA USINA (MW) usinas deve ser informada qual tecnologia de geração está associada à
+cada unidade geradora.
+Potência líquida a ser injetada pelas unidades geradoras da usina no SIN.
+POTÊNCIA DA USINA INJETADA Se a usina for do tipo híbrida ou fizer parte de associação de usinas deve
+NO SIN (MW) ser informada qual tecnologia de geração está associada à cada unidade
+geradora.
+Potência bruta da(s) unidade(s) geradora(s) objeto da solicitação. Se a
+POTÊNCIA DA(S) UNIDADE(S)
+usina for do tipo híbrida ou fizer parte de associação de usinas deve ser
+GERADORA (S) PARA INÍCIO DE
+informada qual tecnologia de geração está associada à cada unidade
+OPERAÇÃO (MW)
+geradora.
+Número do Contrato de Uso do Sistema de Transmissão (CUST) ou do
+CONTRATO DE USO (CUST ou Contrato de Uso do Sistema de Distribuição (CUSD). Se a usina for
+CUSD) associada a outra central geradora, devem ser informados o nome e CEG
+da(s) usina(s) à(s) qua(is)l estará(ão) se associando.
+INÍCIO DA VIGÊNCIA DO Início de vigência do montante de uso constante no anexo do contrato
+MONTANTE DE USO que compreende a potência líquida a ser injetada pelas unidades
+CONTRATADO geradoras da usina no SIN
+CONTRATO DE CONEXÃO (CCT Informar a concessionária de transmissão ou concessionária de
+ou CCD) distribuição que celebrou o contrato de conexão e o número do contrato
+PONTO DE CONEXÃO/ TENSÃO
+Nome da instalação e o nível de tensão onde a unidade geradora está
+DE CONEXÃO (kV) / AGENTE
+conectada
+CONECTADO
+
+Procedimentos de Rede para instalações de 7.13 Procedimental 2026.04 01/05/2026
+geração
+Número da intervenção gerada pelo sistema computacional do ONS de
+NÚMERO DA SOLICITAÇÃO DE gerenciamento de intervenções, tal qual solicitada pelo agente gerador
+INTERVENÇÃO NO SGI que cause impactos diretos ou indiretos na Rede de Operação, conforme
+Submódulo 4.2.
+Município e unidade federativa onde está localizado o empreendimento
+MUNICÍPIO / UF
+de geração
+DATA PREVISTA PARA INÍCIO
+Data prevista para início de operação em teste / integrada ao SIN da(s)
+DA OPERAÇÃO EM TESTE /
+unidade(s) geradora(s) objeto da solicitação
+INTEGRAÇÃO AO SIN
+Número do documento emitido por órgão competente que regula a
+ATO(S) AUTORIZATIVO(S)
+implantação da referida instalação
+
+Procedimentos de Rede para instalações de 7.13 Procedimental 2026.04 01/05/2026
+geração
+ANEXO A - Informe e Dados Técnicos para Integração de Instalação de Agente De Geração
+(continuação)
+PRAZO DE
+DECLARAÇÃO DE
+REQUISITO RESSALVAS ELIMINAÇÃO
+CONFORMIDADE
+PENDÊNCIAS
+Declarar se a instalação está
+sendo instalada conforme o Ato
+Autorizativo.
+Configuração Provisória na
+Na existência de configuração
+Instalação
+provisória, deve-se descrever o
+estado atual da instalação e os
+prazos para implantação da
+configuração definitiva
+Declarar se a estrutura
+implementada para operar a
+Estrutura Operacional da instalação atende aos requisitos
+Instalação (somente para assistência, estabelecidos no
+preencher se for usina Submódulo 2.16 Requisitos
+classificada na modalidade de operacionais para centros de
+operação Tipo I, Tipo II-A, operação e instalações da Rede de
+Tipo II-B, ou Tipo II-C) Operação dos Procedimentos de
+Rede e informar se é assistida ou
+teleassistida
+COMENTÁRIOS ADICIONAIS
+Registrar os comentários adicionais relevantes para o processo de integração.
+RESPONSÁVEL PELA DECLARAÇÃO ASSINATURA DATA
+Nome e cargo do responsável pela Assinatura do responsável pela
+Data de emissão da declaração
+declaração declaração
+
+Procedimentos de Rede para instalações de 7.13 Procedimental 2026.04 01/05/2026
+geração
+ANEXO B - Requisitos Impeditivos para Emissão de DAPR para Agente De Geração
+B.1. Requisitos Impeditivos para emissão de DAPR – Usina classificada na modalidade de
+operação Tipo I
+Requisitos impeditivos para
+emissão
+Requisitos dos Procedimentos de Rede Submódulo
+DAPR/T DAPR/P DAPR/D
+1 Conformidade com o Ato Autorizativo/Outorga 7.13 X X X
+Designação de interlocutores para o
+2 Relacionamento Operacional entre ONS e 5.1 X X X
+agentes
+Emissão do Parecer de Acesso (se conectada
+3 7.1 X X X
+em Rede Básica, ICG ou DIT)
+Atendimento às recomendações, ressalvas e
+4 pendências do Parecer de Acesso (se 7.1 X X X
+conectada em Rede Básica, ICG ou DIT)
+Apresentação de Instrumento de Garantia
+5 Financeira de acordo com as condições 8.1 X X X
+estabelecidas no CUST
+Assinatura do CUST com MUST vigente na data
+6 8.1 X X X
+de integração
+Inexistência de qualquer registro de
+7 inadimplência no pagamento dos encargos da 8.3 X X X
+transmissão
+Assinatura do CCT, se conectada à Rede Básica,
+8 8.1 X X X
+ICG ou DIT
+Fornecimento do Diagrama Unifilar para a fase
+9 1.1 X X X
+pré-operacional
+
+Procedimentos de Rede para instalações de 7.13 Procedimental 2026.04 01/05/2026
+geração
+Requisitos impeditivos para
+emissão
+Requisitos dos Procedimentos de Rede Submódulo
+DAPR/T DAPR/P DAPR/D
+Medição para Faturamento - Aprovação do
+10 2.14 X X X
+Projeto
+Medição para Faturamento - Cadastro do
+ponto de medição no sistema específico da
+11 2.14 e 7.11 X X X
+Câmara de Comercialização de Energia Elétrica
+- CCEE
+Sistema de Telecomunicação - Canais de
+12 2.15 X X X
+Comunicação de Dados (no mínimo 1 canal)
+Sistema de Telecomunicação - Canais de
+13 2.15 X X
+Comunicação de Dados (2 canais distintos)
+Sistema de Telecomunicação - Canais de 2.15
+14 X X X
+Comunicação de Voz (no mínimo 1 canal)
+Sistema de Telecomunicação - Canais de
+15 2.15 X X
+Comunicação de Voz (2 canais distintos)
+Sistema de Supervisão e Controle - Base de
+16 2.12 X X X
+Dados
+Sistema de Supervisão e Controle - Teste
+17 2.12 X X X
+Ponto a Ponto
+Sistema de Supervisão e Controle - Requisitos
+18 do Sequenciador de Eventos – SOE – EVENTOS 2.12 X X X
+DO Tipo A
+Sistema de Supervisão e Controle - Requisitos
+19 do Sequenciador de Eventos – SOE – EVENTOS 2.12 X
+DOS Tipos B
+
+Procedimentos de Rede para instalações de 7.13 Procedimental 2026.04 01/05/2026
+geração
+Requisitos impeditivos para
+emissão
+Requisitos dos Procedimentos de Rede Submódulo
+DAPR/T DAPR/P DAPR/D
+Sistema de Supervisão e Controle –
+Informação de dados anemométricos, ou
+20 2.12 X X
+solarimétricos, e número de máquinas
+sincronizadas disponíveis para operação
+21 Solicitação de Intervenções para teste 4.2 X X X
+22 Teste de 96 horas realizado 6.5 X X
+Evidência da implantação de equipamento de
+23 monitoração contínua de qualidade de 2.9 e 7.8 X X X
+energia.
+Realização de campanha de qualidade de
+2.9, 6.15 e
+24 energia pré-tensão (se indicada no Parecer de X X X
+7.8
+Acesso)
+Implantação de compensação de Reativo, para
+24 usinas eólicas e solares fotovoltaicas (se 2.10 X
+indicada nos estudos aprovados pelo ONS)
+Implantação dos Filtros referentes à Qualidade
+de Energia Elétrica QEE, para usinas eólicas e 2.9, 6.15 e
+25 X
+solares fotovoltaicas (se indicada nos estudos 7.8
+aprovados pelo ONS)
+Realização de campanha de qualidade de
+2.9. 6.15 e
+26 energia pós-tensão (se indicada no Parecer de X
+7.8
+Acesso)
+
+Procedimentos de Rede para instalações de 7.13 Procedimental 2026.04 01/05/2026
+geração
+Requisitos impeditivos para
+emissão
+Requisitos dos Procedimentos de Rede Submódulo
+DAPR/T DAPR/P DAPR/D
+Realização de campanha de qualidade de
+2.9, 6.15 e
+27 energia pós-tensão, após a implantação dos X
+7.8
+Filtros (se indicados em estudo)
+Medição para Faturamento - Aprovação do
+28 2.14 e 7.11 X X
+Relatório de Comissionamento
+29 Diagrama Unifilar Operacional 1.1 X X
+Atendimento às Providências dos Estudos Pré-
+30 operacionais respeitando as condicionantes 7.4 X X X
+especificadas nesses estudos
+Sistema de Telecomunicação – Avaliação do
+31 Desempenho Satisfatório do Sistema de 2.15 X X
+Telecomunicação durante operação em teste
+Sistema de Supervisão e Controle - Avaliação
+do desempenho satisfatório do Sistema de
+32 2.12 e 2.15 X X
+Supervisão e Controle durante operação em
+teste
+33 Implantação das Instruções de Operação 1.1 X X X
+Declaração de Conclusão do Teste em Tempo
+34 5.2 e 5.13 X X
+Real
+
+Procedimentos de Rede para instalações de 7.13 Procedimental 2026.04 01/05/2026
+geração
+Requisitos impeditivos para
+emissão
+Requisitos dos Procedimentos de Rede Submódulo
+DAPR/T DAPR/P DAPR/D
+Modelos para simulação com ajustes
+parametrizados em campo e Relatório de
+35 3.9 e 7.4 X X
+Validação respeitando as condicionantes
+especificadas nos estudos pré-operacionais1
+36 Fornecimento dos Dados Hidrológicos 4.6 X X X
+37 Fornecimento dos Dados de Vento 7.1 X X X
+38 Relatório de Comissionamento2 7.4 X X
+Declaração de observância das Áreas de
+39 - X X X
+Desenvolvimento da Subestação (ADS)
+Informação do regime de assistência de
+40 5.10 X X X
+operação da instalação
+Aceite da Declaração de Atendimento dos
+Requisitos para Teleassistência (para
+41 5.10 X X
+instalações estratégicas teleassistidas) ou
+alteração para regime de assistência local 24h
+
+[As tabelas B.2 a B.4 (modalidades Tipo II-A, II-B, II-C e III) seguem a mesma estrutura da tabela B.1 acima, com 38 a 41 requisitos impeditivos cada, marcados por DAPR/T, DAPR/P e DAPR/D.]
